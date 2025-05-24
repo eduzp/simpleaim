@@ -20,11 +20,12 @@ namespace UNC_FF
             KeyAuthApp.init();
         }
 
+        //CREDENCIAIS KEYAUTH API
         public static api KeyAuthApp = new api(
-            name: "UNC FF", // App name
-            ownerid: "x65xDpT4Jf", // Account ID
-            secret: "2de85893630ad44afc724cb4e1ca6c45babf3f98a06ba8cb589b7d091b8982ba",
-            version: "1.0" // Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
+            name: "", // App name
+            ownerid: "", // Account ID
+            secret: "",
+            version: "" // Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
                    //path: @"Your_Path_Here" // (OPTIONAL) see tutorial here https://www.youtube.com/watch?v=I9rxt821gMk&t=1s
         );
 
