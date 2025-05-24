@@ -10,5 +10,7 @@ Este projeto não tem a intenção de ser utilizado em partidas online. É apena
 
 • Process Hacker  — Inspeção e manipulação de processos
 
+• Guna UI — Desenvolvimento da interface gráfica
+
 ## Status do projeto
 Em desenvolvimento para fins de estudo.
