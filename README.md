@@ -14,3 +14,7 @@ Este projeto não tem a intenção de ser utilizado em partidas online. É apena
 
 ## Status do projeto
 Em desenvolvimento para fins de estudo.
+
+## OBS:
+
+Por se tratar de um desenvolvimento para fins educacionais foram removidas dependencias, offsets e qualquer conteúdo que possam se caracterizar como exposição de dados internos ou de memória. Em caso de remoção, envie a solicitação.
