@@ -1,14 +1,15 @@
-Simple Aim
-Um simple aim desenvolvido para o jogo Free Fire. O projeto tem como objetivo demonstrar, de forma educacional, como funcionam alguns conceitos de mira assistida em jogos.
+## Simple Aim
+# Sobre o projeto
+Simple Aim é um projeto de mira assistida desenvolvido para o jogo Free Fire. Seu objetivo é demonstrar conceitos básicos de leitura de memória e automação de mira, voltado exclusivamente para fins educacionais.
 
-⚠️ Atenção: Este projeto é apenas para fins de estudo e entendimento do público sobre funcionamento de leitura de memória e manipulação de processos. Não é recomendado nem incentivado o uso em partidas online.
+Este projeto não tem a intenção de ser utilizado em partidas online. É apenas para entendimento do público sobre funcionamento de leitura e manipulação de processos.
 
-🛠 Tecnologias Utilizadas
-Cheat Engine – Análise e leitura de memória
+# Tecnologias utilizadas
+C#
 
-C# – Desenvolvimento da aplicação
+Cheat Engine
 
-Process Hacker – Inspeção e manipulação de processos
+Process Hacker
 
-🚧 Status do Projeto
-🏗️ Em desenvolvimento para fins de estudo e aprendizado.
+# Status do projeto
+Em desenvolvimento para fins de estudo.
