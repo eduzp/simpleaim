@@ -6,11 +6,13 @@ Este projeto não tem a intenção de ser utilizado em partidas online. É apena
 ## Tecnologias utilizadas
 • C# — Desenvolvimento da interface e lógica principal
 
+• Guna UI — Desenvolvimento da interface gráfica
+
 • Cheat Engine  — Análise de valores na memória do jogo
 
 • Process Hacker  — Inspeção e manipulação de processos
 
-• Guna UI — Desenvolvimento da interface gráfica
+• keyAuth — Banco de dados para autenticação
 
 ## Status do projeto
 Em desenvolvimento para fins de estudo.
