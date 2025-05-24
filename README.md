@@ -12,7 +12,7 @@ Este projeto não tem a intenção de ser utilizado em partidas online. É apena
 
 • Process Hacker  — Inspeção e manipulação de processos
 
-• keyAuth — Banco de dados para autenticação
+• KeyAuth — Banco de dados para autenticação
 
 ## Status do projeto
 Em desenvolvimento para fins de estudo.
